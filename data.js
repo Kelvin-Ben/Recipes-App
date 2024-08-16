@@ -1,4 +1,4 @@
-const allRecipesData = [
+export const allRecipesData = [
   { id: 0, name: "Biscuits", img: "./src/assets/images/biscuits.jpg" },
   { id: 1, name: "Bulgogi", img: "./src/assets/images/bulgogi.png" },
   { id: 2, name: "Calamari", img: "./src/assets/images/calmari.jpg" },
